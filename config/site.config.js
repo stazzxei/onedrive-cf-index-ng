@@ -49,7 +49,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'google-drive',
+      name: 'Google Drive',
       link: 'https://db.stazz.web.id',
     },
   ],
